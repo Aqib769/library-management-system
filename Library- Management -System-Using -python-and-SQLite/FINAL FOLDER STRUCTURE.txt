@@ -1,0 +1,25 @@
+FINAL FOLDER STRUCTURE
+Library-Management-System-Using-Python-and-SQLite/
+│
+├── src/
+│   └── library_management.py
+│
+├── database/
+│   └── library.db
+│
+├── diagrams/
+│   ├── er_diagram.png
+│   ├── system_diagram.png
+│   └── usecase_diagram.png
+│
+├── screenshots/
+│   ├── main_screen.png
+│   ├── add_book.png
+│   ├── view_books.png
+│   ├── delete_book.png
+│
+├── docs/
+│   └── Project_Report.pdf
+│
+├── README.md
+└── LICENSE
