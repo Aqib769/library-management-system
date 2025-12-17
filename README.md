@@ -4,6 +4,7 @@ A simple Python-based Library Management System with a Tkinter GUI and SQLite da
 This project helps manage library book records such as adding, viewing, and deleting books through an easy-to-use desktop application.
 
 🚀 Features
+
 Add new books with title, author, borrow date, and due date
 View all stored book records
 Delete selected book records
