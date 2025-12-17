@@ -1,0 +1,27 @@
+📄 5️⃣ DOCUMENTATION (For Project Report)
+📌 Modules Description
+🔹 Database Module
+
+Handles all database operations:
+
+Create table
+
+Insert records
+
+Fetch records
+
+Delete records
+
+🔹 GUI Module
+
+Provides user interaction:
+
+Input forms
+
+Buttons
+
+Listbox for records
+
+🔹 Controller Logic
+
+Connects GUI with database functions
