@@ -1,0 +1,93 @@
+# 📚 Library Management System Using Python and SQLite
+
+A simple GUI-based Library Management System developed using **Python**, **Tkinter**, and **SQLite** to manage book records efficiently.
+
+---
+
+## 🧾 Project Overview
+
+The Library Management System is a desktop application designed to automate the process of managing library book records. It allows users to add new books, view existing records, and delete books using an intuitive graphical interface. All data is stored securely in an SQLite database, ensuring persistence and reliability.
+
+This project replaces manual record-keeping with a digital solution, reducing errors and improving efficiency.
+
+---
+
+## ❗ Problem Statement
+
+Traditional library management systems often rely on manual processes or outdated tools, which can lead to:
+- Data inconsistency
+- Loss of records
+- Time-consuming operations
+- Human errors
+
+This project aims to provide a **simple, efficient, and user-friendly system** to manage library records digitally using Python.
+
+---
+
+## 🎯 Objectives
+
+- To design a GUI-based application for library management  
+- To store and manage book records using SQLite  
+- To allow users to add, view, and delete book information  
+- To provide an easy-to-use and error-free system  
+- To reduce manual work and improve record accuracy  
+
+---
+
+## 🗂 Features
+
+- Add new book records  
+- View all stored books  
+- Delete selected book records  
+- Automatic timestamp for each entry  
+- Persistent data storage using SQLite  
+- Simple and interactive GUI  
+
+---
+
+## 🛠 Tools and Technologies Used
+
+- **Programming Language:** Python  
+- **GUI Framework:** Tkinter  
+- **Database:** SQLite  
+- **Libraries:**  
+  - `tkinter`  
+  - `sqlite3`  
+  - `datetime`  
+
+---
+
+## 📊 Dataset
+
+- No external dataset required  
+- Data is dynamically stored in an SQLite database  
+- Each record includes:
+  - Book ID
+  - Book Title
+  - Author
+  - Date Borrowed
+  - Due Date
+  - Added Time
+
+---
+
+## 🧠 System Design
+
+### Entity Relationship Diagram (ERD)
+
+**Entity:** Book  
+- id (Primary Key)  
+- book_title  
+- author  
+- date_borrowed  
+- date_due  
+- added_time  
+
+---
+
+## ▶ How to Run the Project
+
+1. Install Python (version 3.x)
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/library-management-system.git
