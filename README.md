@@ -13,12 +13,14 @@ User-friendly GUI using Tkinter
 Lightweight SQLite database (no external setup required)
 
 🛠 Tools & Technologies
+
 Python 3
 Tkinter – GUI development
 SQLite – Database
 VS Code / IDLE – Development environment
 
 📂 Project Structure
+
 Library-Management-System-Using-Python-and-SQLite/
 │
 ├── src/
@@ -38,6 +40,7 @@ Library-Management-System-Using-Python-and-SQLite/
 
 ▶️ How to Run the Project
 
+
 Install Python (3.x)
 Clone the repository or download the ZIP
 Navigate to the src folder
@@ -46,9 +49,11 @@ python library_management.py
 The GUI window will open automatically
 
 📸 Screenshots
+
 <img width="940" height="735" alt="image" src="https://github.com/user-attachments/assets/695b900d-a882-4feb-af69-7c0aee7b9ff6" />
 
 📌 Use Case
+
 This project is suitable for:
 College mini-projects
 Python + Tkinter practice
