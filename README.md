@@ -42,10 +42,15 @@ Library-Management-System-Using-Python-and-SQLite/
 
 
 Install Python (3.x)
+
 Clone the repository or download the ZIP
+
 Navigate to the src folder
+
 Run the command:
+
 python library_management.py
+
 The GUI window will open automatically
 
 📸 Screenshots
